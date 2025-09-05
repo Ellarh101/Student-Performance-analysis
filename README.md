@@ -1,6 +1,4 @@
 📊 Student Performance Analysis
-<img width="1818" height="620" alt="Screenshot 2025-09-06 001050" src="https://github.com/user-attachments/assets/b9c7bd2e-e2ab-45fb-8ce8-b44974cb150c" />
-
 🌟 About the Project
 This project is very close to my heart. Many students struggle in school, and through this analysis, I discovered that dedicating more time to studying can significantly improve academic performance.
 My hope is that this work will not only highlight important study habits but also inspire students, educators, and parents to explore data-driven ways of boosting learning outcomes.
@@ -22,7 +20,7 @@ Students who dedicate more time to studying tend to perform better academically.
 
 🚀 How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/your-username/student-performance-analysis.git
+   git clone https://github.com/Ellarh101/Student-Performance-analysis.git
 cd student-performance-analysis
 
 2. Install dependencies:
